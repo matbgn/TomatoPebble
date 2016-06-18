@@ -1,0 +1,55 @@
+{
+    "appKeys": {
+        "KEY_PAUSE_TIME": 1001,
+        "KEY_WORK_TIME": 1000
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "At3flo",
+    "longName": "Tomato",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cup-16.png",
+                "name": "CUP_16",
+                "type": "png"
+            },
+            {
+                "file": "images/todo_list-16.png",
+                "name": "TODO_LIST_16",
+                "type": "png"
+            },
+            {
+                "file": "images/tomato-50.png",
+                "name": "TOMATO_BLACK_50",
+                "type": "png"
+            },
+            {
+                "file": "images/play-16.png",
+                "name": "PLAY_16",
+                "type": "png"
+            },
+            {
+                "file": "images/pause-16.png",
+                "name": "PAUSE_16",
+                "type": "png"
+            },
+            {
+                "file": "images/tomato-28.png",
+                "menuIcon": true,
+                "name": "TOMATO_BLACK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Tomato",
+    "uuid": "46e153f1-02cf-41ba-bc33-d7957cdb304c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
